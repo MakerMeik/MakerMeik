@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MakerMeik
+- 👀 I’m interested in Microcontrollers, Smart Home, 3D-printing, Linux, making music, ...
+- 📫 Find my tutorials on youtube - https://www.youtube.com/channel/UCXHWog4FH3LaYJiGuFFQMrA
